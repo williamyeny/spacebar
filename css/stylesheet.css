@@ -1,0 +1,55 @@
+html {
+  font-family:"Open Sans";
+  background-color:#e3e3e3 
+}
+
+#container {
+  margin:0 auto;
+  width:900px;
+  background-color:white;
+  padding-bottom:100px;
+  border-style:solid;
+  border-color:white;
+  border-width:2px;
+  border-radius:20px;
+}
+
+h1 {
+  text-align:center;
+  font-size:60px;
+}
+
+#ui {
+  width:800px;
+  margin:0 auto;
+  background-color:white;
+}
+
+#alert {
+  float:center;
+  text-align:center;
+  color:red;
+}
+
+#level {
+  float:left;
+}
+
+#score {
+  float:right;
+}
+
+h2 {
+  text-align:center;
+}
+
+p {
+  text-align:center;
+  font-size:30px;
+  margin-top:-30px;
+}
+
+canvas {
+  width:800px;
+  margin: 0 auto;
+}
